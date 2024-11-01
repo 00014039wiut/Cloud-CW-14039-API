@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\repository\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\repository\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\repository\\coachrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\repository\\coachrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\controllers\\coachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\controllers\\coachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\migrations\\20241031191513_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\migrations\\20241031191513_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\repository\\icoachrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\repository\\icoachrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\repository\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\repository\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\dbcontexts\\teamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\dbcontexts\\teamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|c:\\users\\hp\\desktop\\dscc.cw1.14039\\dscc.cw1.14039\\model\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA5D47F-4317-402C-B40F-0E9CDC083BBC}|DSCC.CW1.14039\\DSCC.CW1.14039.csproj|solutionrelative:dscc.cw1.14039\\model\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "DSCC.CW1.14039\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:15.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICoachRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Repository\\ICoachRepository.cs",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\Repository\\ICoachRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Repository\\ICoachRepository.cs",
+              "RelativeToolTip": "DSCC.CW1.14039\\Repository\\ICoachRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:15.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Program.cs",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Program.cs",
+              "RelativeToolTip": "DSCC.CW1.14039\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:15.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoachController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Controllers\\CoachController.cs",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\Controllers\\CoachController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Controllers\\CoachController.cs",
+              "RelativeToolTip": "DSCC.CW1.14039\\Controllers\\CoachController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:15.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Repository\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\Repository\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Repository\\TeamRepository.cs",
+              "RelativeToolTip": "DSCC.CW1.14039\\Repository\\TeamRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:15.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoachRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Repository\\CoachRepository.cs",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\Repository\\CoachRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Repository\\CoachRepository.cs",
+              "RelativeToolTip": "DSCC.CW1.14039\\Repository\\CoachRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:15.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241031191513_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Migrations\\20241031191513_FirstMigration.cs",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\Migrations\\20241031191513_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Migrations\\20241031191513_FirstMigration.cs",
+              "RelativeToolTip": "DSCC.CW1.14039\\Migrations\\20241031191513_FirstMigration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:15:13.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\appsettings.json",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\appsettings.json",
+              "RelativeToolTip": "DSCC.CW1.14039\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T15:28:15.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Model\\Team.cs",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\Model\\Team.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Model\\Team.cs",
+              "RelativeToolTip": "DSCC.CW1.14039\\Model\\Team.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:15.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Repository\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\Repository\\ITeamRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Repository\\ITeamRepository.cs",
+              "RelativeToolTip": "DSCC.CW1.14039\\Repository\\ITeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:15.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeamDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\DbContexts\\TeamDbContext.cs",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\DbContexts\\TeamDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\DbContexts\\TeamDbContext.cs",
+              "RelativeToolTip": "DSCC.CW1.14039\\DbContexts\\TeamDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:15.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Coach.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Model\\Coach.cs",
+              "RelativeDocumentMoniker": "DSCC.CW1.14039\\Model\\Coach.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DSCC.CW1.14039\\DSCC.CW1.14039\\Model\\Coach.cs",
+              "RelativeToolTip": "DSCC.CW1.14039\\Model\\Coach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:15.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
